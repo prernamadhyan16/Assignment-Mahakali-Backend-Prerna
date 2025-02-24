@@ -74,4 +74,4 @@ This project is a Node.js backend built for managing content related to the Maha
    node token.js
    ```
 ## Author
-Prerna | Frontend Developer  
+Prerna | Developer  
